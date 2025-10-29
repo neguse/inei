@@ -4,7 +4,7 @@ dist-server/
 
 # build
 public/main.wasm
-wasm_exec.js
+public/wasm_exec.js
 
 # dev
 .yarn/
