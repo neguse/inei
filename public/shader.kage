@@ -2,6 +2,11 @@ package main
 
 //kage:unit pixels
 
+// Inei : ebitengine/kage Shader Playground
+// 
+// Usage:
+//   Alt+Enter: Compile shader.
+
 var Time float
 var Cursor vec2
 

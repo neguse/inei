@@ -1,4 +1,4 @@
-module github.com/neguse/kageba
+module github.com/neguse/inei
 
 go 1.25.3
 
